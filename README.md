@@ -28,6 +28,25 @@ The dataset includes the following columns:
 * Identify the characteristics of successful games based on reviews, genres, and platforms.
 * Use statistical hypothesis testing to validate patterns and insights.
 
+## 📊 Analysis Results  
+
+### 🕹️ General Insights  
+- Ice, the online video game store, offers **11,559 games**, each classified by **platform and genre**.  
+- The number of game releases **has increased over time**, spanning from **1980 to 2016**, with **sales varying each year**.  
+
+### 🏆 Top-Selling Platforms  
+- The **best-selling platforms** are **PS2, X360, and PS3**, with **PS2 being the most profitable**.  
+- **Platform lifecycles were identified**—initially, sales **peak** but eventually **decline over time**.  
+- **PS4 showed strong growth until 2015**, after which sales started to decline, highlighting the **trend-driven nature of the gaming industry**.  
+
+### ⭐ Impact of Reviews  
+- **User and critic reviews have a low influence on sales**.  
+- While there are **some peaks where high reviews correlate with high sales**, the impact is **not significant overall**.  
+
+### 🌎 Regional Preferences  
+- The **Action genre** and **E-rated (Everyone) games** are the **most popular across all three analyzed regions**.  
+- However, **preferred gaming platforms vary by region**, driven by **local trends and consumer preferences**.  
+
 ## Tools and Methods
 * *Python:* Data cleaning, analysis, and visualization.
 * *Statistical Hypothesis Testing:* Evaluate relationships between game features and sales.
